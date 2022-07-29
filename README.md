@@ -8,7 +8,7 @@ I've a master's degree in International Relations and currently a insurance brok
 
 * 🌍  I'm based in João Pessoa-PB-Brasil
 * ✉️  You can contact me at [nashlasterby@gmail.com](mailto:nashlasterby@gmail.com)
-* 🧠  I'm learning Node.js | Solid
+* 🧠  I'm learning Typescript | VueJs
 
 ### Skills
 
