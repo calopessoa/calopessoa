@@ -1,4 +1,4 @@
-Hi 👋 My name is Carlos Augusto L. de Oliveira
+Hello, there! 👋 Carlos Augusto L. de Oliveira, here!
 ==============================================
 
 Web FullStack (in-progress) | JavaScript | React | Redux
