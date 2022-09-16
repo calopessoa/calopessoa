@@ -1,10 +1,10 @@
 Hello, there! 👋 Carlos Augusto L. de Oliveira, here!
 ==============================================
 
-Web FullStack (in-progress) | JavaScript | React | Redux
+Full Stack Web Developer
 --------------------------------------------------------
 
-I've a master's degree in International Relations and currently a insurance broker switching carreer to full-stack Developer.
+MERN stack, as well as SQL;
 
 * 🌍  I'm based in João Pessoa-PB-Brasil
 * ✉️  You can contact me at [nashlasterby@gmail.com](mailto:nashlasterby@gmail.com)
