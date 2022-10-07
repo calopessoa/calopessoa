@@ -8,7 +8,7 @@ MERN stack, as well as SQL;
 
 * 🌍  I'm based in João Pessoa-PB-Brasil
 * ✉️  You can contact me at [nashlasterby@gmail.com](mailto:nashlasterby@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning Python
 
 ### Skills
 
