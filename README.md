@@ -36,6 +36,7 @@ MERN stack, as well as SQL;
 <img src="https://sinonjs.org/assets/images/logo.png" alt="sinon" width="36" height="36"/>
 <img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" alt="chai" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>
+<a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/2730609/49487139-07392080-f7f6-11e8-96b1-e19e8be696c4.png" alt="cypress" width="36" height="36"/></a>
 </p>
 
 
