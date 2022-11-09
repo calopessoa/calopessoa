@@ -31,12 +31,12 @@ MERN stack, as well as SQL;
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
 <a href="https://www.firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <img src="https://website-v9.vercel.app/logo-dark.svg" width="36" height="36" alt="Prisma" />
-<img alt="NodeJS" height="36" width="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img src="https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png" alt="mocka" width="36" height="36"/>
 <img src="https://sinonjs.org/assets/images/logo.png" alt="sinon" width="36" height="36"/>
 <img src="https://avatars.githubusercontent.com/u/1515293?s=280&v=4" alt="chai" width="36" height="36"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/2730609/49487139-07392080-f7f6-11e8-96b1-e19e8be696c4.png" alt="cypress" width="36" height="36"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="36" height="36"/></a>
 </p>
 
 
