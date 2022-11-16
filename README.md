@@ -1,14 +1,12 @@
 Hello, there! 👋 Carlos Augusto L. de Oliveira, here!
 ==============================================
 
-Full Stack Web Developer
+QA / Full Stack Web Developer 
 --------------------------------------------------------
-
-MERN stack, as well as SQL;
 
 * 🌍  I'm based in João Pessoa-PB-Brasil
 * ✉️  You can contact me at [nashlasterby@gmail.com](mailto:nashlasterby@gmail.com)
-* 🧠  I'm learning Python
+* 🧠  I'm learning Python (Playwright framework)
 
 ### Skills
 
