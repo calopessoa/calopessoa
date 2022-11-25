@@ -6,7 +6,7 @@ QA / Full Stack Web Developer
 
 * 🌍  I'm based in João Pessoa-PB-Brasil
 * ✉️  You can contact me at [nashlasterby@gmail.com](mailto:nashlasterby@gmail.com)
-* 🧠  I'm learning Python (Playwright framework)
+* 🧠  I'm learning Ruby on Rails
 
 ### Skills
 
@@ -35,6 +35,8 @@ QA / Full Stack Web Developer
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="36" height="36"/>
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/2730609/49487139-07392080-f7f6-11e8-96b1-e19e8be696c4.png" alt="cypress" width="36" height="36"/></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="36" height="36"/></a>
+<a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="playwright" width="36" height="36"/></a>  
+
 </p>
 
 
