@@ -38,6 +38,7 @@ QA / Full Stack Web Developer
 <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="playwright" width="36" height="36"/></a>  
 <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="ruby" width="36" height="36"/></a>
 <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ruby_on_Rails_logo.svg/1200px-Ruby_on_Rails_logo.svg.png" alt="ruby" width="36" height="36"/></a>
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" alt="ruby" width="36" height="36"/></a>
 
 </p>
 
