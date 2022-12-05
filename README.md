@@ -36,6 +36,8 @@ QA / Full Stack Web Developer
 <a href="https://www.cypress.io/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/2730609/49487139-07392080-f7f6-11e8-96b1-e19e8be696c4.png" alt="cypress" width="36" height="36"/></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" alt="python" width="36" height="36"/></a>
 <a href="https://playwright.dev/" target="_blank" rel="noreferrer"><img src="https://seeklogo.com/images/P/playwright-logo-22FA8B9E63-seeklogo.com.png" alt="playwright" width="36" height="36"/></a>  
+<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" alt="ruby" width="36" height="36"/></a>
+<a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ruby_on_Rails_logo.svg/1200px-Ruby_on_Rails_logo.svg.png" alt="ruby" width="36" height="36"/></a>
 
 </p>
 
