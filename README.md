@@ -1,7 +1,7 @@
 Hello, there! 👋 Carlos Augusto L. de Oliveira, here!
 ==============================================
 
-QA / Full Stack Web Developer 
+QA Engineer Full Stack 
 --------------------------------------------------------
 
 * 🌍  I'm based in João Pessoa-PB-Brasil
